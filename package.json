@@ -12,20 +12,25 @@
     "@hookform/resolvers": "^5.2.2",
     "@radix-ui/themes": "^3.2.1",
     "@tanstack/react-query": "^5.90.5",
-    "next": "16.0.0",
+    "axios": "^1.13.1",
+    "lucide-react": "^0.548.0",
+    "next": "16.0.1",
+    "radix-ui": "^1.4.3",
     "react": "19.2.0",
     "react-dom": "19.2.0",
+    "react-headless-pagination": "^1.1.6",
     "react-hook-form": "^7.65.0",
     "zod": "^4.1.12"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
+    "@tanstack/eslint-plugin-query": "^5.91.2",
+    "@tanstack/react-query-devtools": "^5.90.2",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "babel-plugin-react-compiler": "1.0.0",
     "eslint": "^9",
-    "eslint-config-next": "16.0.0",
+    "eslint-config-next": "16.0.1",
     "tailwindcss": "^4",
     "typescript": "^5"
   }
